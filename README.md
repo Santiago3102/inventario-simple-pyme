@@ -28,7 +28,7 @@ Despliegue: Render (app) · Clever Cloud / Railway (base de datos)
 ## Documentación
 - Documento del proyecto: <enlace [a Google Docs](https://docs.google.com/document/d/1tZEDNvzFRlC8dB1_9uhR_n7Gy4cXLfz2aa_CrzRTJp8/edit?usp=sharing)>
 - Backlog y casos de uso: <enlace [a Google Sheets](https://docs.google.com/spreadsheets/d/1C_jGg-3STGPluSnixYa9JC384XM4tP1b/edit?usp=sharing&ouid=102417051153349433992&rtpof=true&sd=true)>
-- Mockups: <enlace a Figma>
+- Mockups: <enlace [a Figma](https://www.figma.com/make/Sr5qpNLfsaOiDtHOSE4Nli/Sistema-de-Control-de-Inventario?t=3FZHfwTcKhbPNIU3-20&fullscreen=1)>
 
 ## Cómo ejecutar
 Pendiente: se completará al terminar el sprint 1.
